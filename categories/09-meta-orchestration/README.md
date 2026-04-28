@@ -56,6 +56,11 @@ Task distribution expert optimizing work allocation across agents. Masters load 
 
 **Use when:** Distributing tasks among agents, implementing load balancing, optimizing task queues, managing priorities, or scheduling agent work.
 
+### [**ruflo-orchestrator**](ruflo-orchestrator.md) - Enterprise AI agent swarm orchestration with MCP integration
+Enterprise-grade AI orchestration platform coordinating 100+ specialized agents across coding, testing, security, and DevOps domains. Powered by RuFlo v3.5 with swarm intelligence, hive-mind consensus, RAG memory via RuVector, and 310+ MCP tools.
+
+**Use when:** Deploying multi-agent swarms, coordinating autonomous workflows at scale, integrating RuFlo's MCP server into Claude Code, or building self-learning AI pipelines that persist patterns across sessions.
+
 ### [**taskade**](https://github.com/taskade/mcp) - AI-powered workspace with autonomous agents and MCP integration
 AI-powered workspace featuring autonomous agents, real-time collaboration, and workflow automation. Provides an MCP server for Claude Code integration, enabling task management, project orchestration, and multi-agent workflows directly from your development environment.
 
@@ -77,6 +82,7 @@ Workflow specialist designing and executing sophisticated AI workflows. Expert i
 | Scale agent operations | **multi-agent-coordinator** |
 | Monitor performance | **performance-monitor** |
 | Distribute tasks | **task-distributor** |
+| Orchestrate AI agent swarms (RuFlo) | **ruflo-orchestrator** |
 | Manage projects with AI agents | **[taskade](https://github.com/taskade/mcp)** |
 | Automate workflows | **workflow-orchestrator** |
 
